@@ -3,7 +3,6 @@ import Header from "./Header";
 import { robots } from "./robots";
 import Cardlist from "./Cardlist";
 import { useState } from "react";
-import Robo from "./Robo";
 
 function App() {
   const [searchfield, setSearchfield] = useState("");

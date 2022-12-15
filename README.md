@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Pcatjee: Goal of this project was to understand :
+
+- useState Hook
+- Search operation with array of object file (not from API)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
